@@ -4,8 +4,8 @@ chcp 65001 >nul
 goto enc
 :snort
 set /p pass=Enter password:
-if %pass% == k%l%Abq goto :snart
-if not %pass% == k%l%Abq goto :snart
+if %pass% == %p%%o%A%y%%j% goto :snart
+if not %pass% == %p%%o%A%y%%j% goto :inc
 
 :inc
 cls
